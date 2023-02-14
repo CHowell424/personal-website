@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:aqua;
+}
+
+ul{
+    list-style-type:none;
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+    display:flex;
+    flex-direction: column;
+}
+
+
+.col{
+    margin: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row{
+    margin:5px;
+}
