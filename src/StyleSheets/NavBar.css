@@ -10,19 +10,23 @@ ul{
 }
 
 .navbar{
+    text-align: center;
     background-color: black;
     color:white;
     display:flex;
     flex-direction: column;
+    align-items: center;
 }
 
 
 .col{
-    margin: 3px;
+    margin: 0px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .row{
-    margin:5px;
+
+    margin-bottom:5px;
+    margin-top:5px;
 }
