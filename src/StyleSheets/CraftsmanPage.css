@@ -3,8 +3,16 @@ p{
     text-indent: 10px;
 }
 
+.text{
+    height: 250px;
+}
+
 .center-text{
     text-align: center;
+}
+
+.center{
+    align-self: center;
 }
 
 .row{
@@ -14,7 +22,7 @@ p{
 }
 
 .col{
-    margin:5px;
+    margin:5%;
     width:33%;
     display: flex;
     flex-direction: row;
