@@ -1,3 +1,4 @@
+import React from 'react';
 import dragon from '../photos/Dragon.jpg';
 import forestWolf from "../photos/ForestWolf.jpg";
 import mando from "../photos/Mandolorian.jpg";

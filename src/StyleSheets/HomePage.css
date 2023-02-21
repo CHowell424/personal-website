@@ -1,0 +1,21 @@
+
+.center{
+    align-self: center;
+}
+
+.center-text{
+     text-align: center;
+}
+
+.row{
+    display:flex;
+    flex: column;
+    justify-content: space-around;
+}
+
+.col{
+    margin:5%;
+    width:33%;
+    display: flex;
+    flex-direction: row;
+    }
