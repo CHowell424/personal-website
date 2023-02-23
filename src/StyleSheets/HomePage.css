@@ -32,6 +32,14 @@
     border-radius: 50%;
 }
 
+.c{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    margin: 10px;
+}
+
 .small-image{
-    width:25%
+    width:15%
 }
