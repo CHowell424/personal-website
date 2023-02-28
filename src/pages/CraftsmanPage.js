@@ -1,5 +1,4 @@
 import React from "react";
-import "../StyleSheets/CraftsmanPage.css"
 import Pytography from "./CraftsmanPageParts/Pytography"
 import Sewing from "./CraftsmanPageParts/Sewing";
 

@@ -1,5 +1,4 @@
 import React from "react";
-import "../StyleSheets/HomePage.css"
 import About from "./HomePageParts/About";
 import Schooling from "./HomePageParts/Schooling";
 import Career from "./HomePageParts/Career";
@@ -8,10 +7,10 @@ import Contact from "./HomePageParts/Contact";
 import Caedmon from "./photos/Caedmon-Howell.jpg"
 
 function HomePage(){
-    return(<div>
-        <img className="round center-image small-image" src ={Caedmon} alt ="Caedmon Howell"/>
+    return(<div className="container">
+        <img className="center-image rounded small-image" src ={Caedmon} alt ="Caedmon Howell"/>
         <h1 className="center-text">Caedmon Howell</h1>
-        <div className="row">
+        <div className="row space-around">
             <a className="col" href ="#about">About</a>
             <a className="col" href ="#schooling">Schooling</a>
             <a className="col" href ="#career">Career</a>

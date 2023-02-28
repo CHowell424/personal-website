@@ -3,13 +3,9 @@ import backpack from "../photos/Backpack.jpg";
 
 function Sewing (){
     return(<div>
-        <div className="row center">
-            <h2>Sewing</h2>
-        </div>
+            <h2 className="center-text">Sewing</h2>
 
-        <div className ="row center">
-            <img className="col" src={backpack} alt="BackPack"/>
-        </div>
+            <img className="center-image large-image" src={backpack} alt="BackPack"/>
 
         <div className="row">
             <div>
