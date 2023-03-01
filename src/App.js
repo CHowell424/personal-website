@@ -9,8 +9,8 @@ import Contact from "./pages/HomePageParts/Contact";
 
 function App() {
   return(<div>
-    <Navagation/>
     <Router>
+    <Navagation/>
       <Switch>
         <Route exact={true} path="/">
           <HomePage/>
@@ -24,11 +24,11 @@ function App() {
           <CraftsmanPage/>
         </Route>
       </Switch>
-    </Router>
-    <hr></hr>
-    <article className="header" id="contact">
+      <hr></hr>
+      <article className="header" id="contact">
             <Contact/>
     </article>
+    </Router>
   </div>)
 }
 

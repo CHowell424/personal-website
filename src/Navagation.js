@@ -1,9 +1,9 @@
 import React from "react";
-import {Link} from "react-router-dom"
+import {Link} from "react-router-dom";
 
 function Navagation(){
     return(<div className="container header">
-        <h1 className="col center"><a className="col center" href="/">Caedmon Howell</a></h1>
+        <h1 className="col center"><Link className="col center" to="/">Caedmon Howell</Link></h1>
         <h4 className="col center">as a</h4>
         <ul className="col center">
                 <li className="row nav"><Link to ="/software">Software Engineer</Link></li>
