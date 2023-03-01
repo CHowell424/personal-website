@@ -108,7 +108,7 @@ function Pytography(){
     <img className="craft-image" src={moonLitKiss} alt="Moon Lit Kiss"/>
     <div className="col">
             <div>
-                <h5 className="center-text">Moon Lit Kiss</h5>
+                <h5 className="center-text">Moonlit Kiss</h5>
                 <p className="row">
                 This depiction of Caedmon and his girlfriend is the first wood burning he spliced two images together.
                     The two pictures he spliced were the picture of him and his girlfriend and the moon for the background.
@@ -121,7 +121,7 @@ function Pytography(){
     <img className="craft-image" src={reavenclawCrest} alt="Ravinclaw Crest"/>
     <div className="col">
             <div>
-                <h5 className="center-text">Ravinclaw Crest</h5>
+                <h5 className="center-text">Ravenclaw Crest</h5>
                 <p className="row">
                 Though Caedmon himself is a Hufflepuff, he burned the Ravenclaw Crest because his girlfriend is a Ravenclaw.
                     He has planned on making the other Harry Potter house crests at some point in the near future.
