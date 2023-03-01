@@ -93,8 +93,9 @@ function Pytography(){
             <div>
                 <h5 className="center-text">Wolf</h5>
                 <p className="row">
-                This depiction of Caedmon and his girlfriend is the first wood burning he spliced two images together.
-                    The two pictures he spliced were the picture of him and his girlfriend and the moon for the background.
+                This wolf Caedmon burned on request of one of his friends.
+                    He viewed it as a challenge considering he had never burned up close animal fur on his art before this.
+
 </p>
             </div>
         </div>
