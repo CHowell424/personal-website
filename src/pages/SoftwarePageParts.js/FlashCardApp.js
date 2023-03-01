@@ -4,7 +4,7 @@ import flashCard from "../photos/FlashCardApp.png"
 function FlashCardApp(){
     return(<div className = "container">
         <h3 className="center-text">Flash Card App</h3>
-        <a className="center" href = "https://github.com/CHowell424/Flash-Card-App">Github</a>
+        <a className="center" target="_blank" rel="noopener noreferrer" href = "https://github.com/CHowell424/Flash-Card-App">Github</a>
         <img className="center-image large-image" src={flashCard} alt="Flash Card app homepage"/>
 
         <p>
