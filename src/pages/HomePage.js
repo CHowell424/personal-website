@@ -3,7 +3,6 @@ import About from "./HomePageParts/About";
 import Schooling from "./HomePageParts/Schooling";
 import Career from "./HomePageParts/Career";
 import Hobbies from "./HomePageParts/Hobbies";
-import Contact from "./HomePageParts/Contact";
 import Caedmon from "./photos/Caedmon-Howell.jpg"
 
 function HomePage(){
@@ -41,10 +40,6 @@ function HomePage(){
         </article>
 
         <hr></hr>
-
-        <article id="contact">
-            <Contact/>
-        </article>
 
     </div>)
 }

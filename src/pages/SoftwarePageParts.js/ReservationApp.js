@@ -12,11 +12,11 @@ function ReservationApp(){
             <img className="large-image center-image" src={reservationApp} alt="Reservation App home Screen"/>
         </div>
         <p>
-            With creating the Database, API, and frontend, this is the largest project Caedmon has ever created.
-            The website allows a restaurant to create and edit table reservations and tables.
+        With creating the Database, API, and frontend, this is the largest project Caedmon has ever created.
+            The website allows a restaurant to create and edit table reservations.
             It allows them to seat a reservation, finish a table, and cancel a reservation.
             The search function allows them to find any reservation including ones from the past.
-        </p>
+</p>
     </div>)
 }
 

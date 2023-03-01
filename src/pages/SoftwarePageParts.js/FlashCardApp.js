@@ -8,15 +8,14 @@ function FlashCardApp(){
         <img className="center-image large-image" src={flashCard} alt="Flash Card app homepage"/>
 
         <p>
-            This project was one of the more time consuming projects.
-            It took a lot of patience for Caedmon because React was not his strong suit.
-            He deffinatly has become more ephiocent with React because of this project.
-        </p>
+        This project was one of the more time consuming projects.
+            It took a lot of patience for Caedmon because React was not his strong suit, but has definitely become more efficient with React because of this project.
+</p>
         <p>
-            This website is not hooked up to an API yet so it isnt quite functional.
+        This website is not hooked up to an API yet so it isn't quite functional.
             When it is hooked up to an API it will allow the user to create, edit, and study decks of flash cards.
-            Its primary pourpose is to be an easy to use study tool.
-        </p>
+            Its primary purpose is to be an easy to use study tool.
+</p>
     </div>)
 }
 

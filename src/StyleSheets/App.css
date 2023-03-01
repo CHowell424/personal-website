@@ -6,6 +6,32 @@ ul{
     list-style-type: none;
 }
 
+a{
+    color:#a8dadc;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#f1faee;
+}
+
+body{
+    background-color: #457b9d;
+    color:#f1faee;
+}
+
+h1,h2,h3{
+    color:#1d3557;
+}
+
+.header{
+    background-color: #1d3557;
+}
+
+.cont{
+    color:#f1faee !important;
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -48,11 +74,11 @@ ul{
 }
 
 .small-image{
-    width:15%;
+    width:25%;
 }
 
 .large-image{
-    width:75%;
+    width:50%;
 }
 
 .margin{
@@ -108,5 +134,11 @@ ul{
         display: block;
         margin-left: auto;
         margin-right: auto;
+    }
+    .large-image{
+        width:90%;
+    }
+    .small-image{
+        width:50%;
     }
 }

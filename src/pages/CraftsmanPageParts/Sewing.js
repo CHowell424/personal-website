@@ -10,10 +10,10 @@ function Sewing (){
         <div className="row">
             <div>
                 <h3 className="center-text">Alice in Wonderland BackPack</h3>
-                <p>Ceadmon created this backpack for his grilfriends birthday.
-                    He created it from scratch, from designing the patern, to acctualy sewing it.
-                    This backpack is one of the projects he his more proud of.
-                </p>
+                <p>Caedmon created this backpack for his girlfriend's birthday.
+                    He created it from scratch, from designing the pattern, to actually sewing it.
+                    This backpack is one of the projects he is more proud of.
+</p>
             </div>
         </div>
 

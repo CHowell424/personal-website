@@ -5,6 +5,7 @@ import HomePage from "./pages/HomePage";
 import SoftwarePage from "./pages/SoftawrePage";
 import CraftsmanPage from "./pages/CraftsmanPage";
 import Navagation from "./Navagation";
+import Contact from "./pages/HomePageParts/Contact";
 
 function App() {
   return(<div>
@@ -24,6 +25,10 @@ function App() {
         </Route>
       </Switch>
     </Router>
+    <hr></hr>
+    <article className="header" id="contact">
+            <Contact/>
+    </article>
   </div>)
 }
 

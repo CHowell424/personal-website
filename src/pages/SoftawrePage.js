@@ -8,24 +8,16 @@ function SoftwarePage(){
     return(<div>
         <h1 className="center-text">Caedmon the Software Engineer</h1>
         <p>
-            Caedmon has wantest to be a Software Engineer since he started high school. 
-            He has taken many steps tward getting into the indestry.
-            He got an Assosiates Degree of General Science while still in high school. 
-            Along with the Assosiates he also earned a certificate from <a href = {thinkful}>Thinkful</a> coding bootcamp.
-        </p>
+        Caedmon has wanted to be a Software Engineer since he started high school.
+            He has taken many steps toward getting into the industry.
+            He got an Associates Degree of General Science while still in high school.
+            Along with the Associates he also earned a certificate from  <a target="_blank" rel="noopener noreferrer" href ={thinkful}> Thinkful</a> coding bootcamp.
+</p>
         <p className="center-text">
-            In his years of learning coding he has worked with mulpiple languages, librarys, and frameworks.
-            This includes...
+        In his years of learning coding he has worked with multiple languages, libraries, and frameworks.
+            This includes
+ Python, C++, C#, React, Knex, .Net, and SQL.
         </p>
-        <ul>
-            <li className="center-text">Python</li>
-            <li className="center-text">C++</li>
-            <li className="center-text">C#</li>
-            <li className="center-text">React</li>
-            <li className="center-text">Knex</li>
-            <li className="center-text">.Net</li>
-            <li className="center-text">SQL</li>
-        </ul>
 
         <hr></hr>
         <h2 className="center-text">Projects</h2>
